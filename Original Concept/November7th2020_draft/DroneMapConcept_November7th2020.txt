@@ -1,0 +1,13 @@
+DroneMap
+
+Coordinate sky drone patterns easily
+
+Draw it out
+Save .dronemap
+
+Compatible with:
+
+DJI
+Freeflight
+Parrot
+
