@@ -1,0 +1,1 @@
+DroneMap is an open source GUI tool that lets you set up drones in massive patterns, with the ability to program thousands of drones at once. This is to be used for things like spelling out words or logos in the sky in major events.
